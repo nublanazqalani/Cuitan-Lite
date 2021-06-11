@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Cuitan Lite</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="save">Simpan</string>
+    <string name="cancel">Batal</string>
+    <string name="no_data_to_display">Tidak ada data</string>
+    <string name="search">Cari</string>
+    <string name="date_created">Tanggal dibuat</string>
+    <string name="apa_yang_anda_pikirkan_saat_ini">Apa yang anda pikirkan saat ini?</string>
+
+    <string-array name="option_edit_delete">
+        <item>Rincian</item>
+        <item>Ubah</item>
+        <item>Hapus</item>
+    </string-array>
+</resources>
